@@ -1,7 +1,8 @@
 # created by virtualenv automatically
 lib/
-sctipts/
+Scripts/
 __pycache__/
+.idea/
 pyenv.cfg
 gs_credentials.json
 config.py

@@ -4,6 +4,7 @@ Script parses prices from albiononline2d.com and evaluates price spread between 
 Total 2000+ rows of data
 
 Data saves to Google Sheets for later analysis.
+
 Can be easily changed to any DB or tool because of Pandas.
 
 ## Usage
@@ -18,6 +19,7 @@ Note: gs_credentials.json is not included in repo. You should create it yourself
 
 ## Some stats
 Total 2000+ rows of data
+
 Average run time: 32 minutes on weak laptop and internet connection
 
 
