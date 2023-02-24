@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+lib/
+sctipts/
+__pycache__/
+pyenv.cfg
+gs_credentials.json
+config.py
+pyvenv.cfg
